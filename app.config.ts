@@ -1,5 +1,5 @@
 export default defineAppConfig({
-  title: 'LendaLinks - Sink',
+  title: 'LendaLinks',
   description: 'Acortador de enlaces de Lenda',
   image: 'https://sink.cool/banner.png',
   previewTTL: 24 * 3600, // 24h

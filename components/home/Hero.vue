@@ -34,11 +34,11 @@ const { title, description } = useAppConfig()
         </HomeLink>
       </div>
     </div>
-    <div class="hidden py-6 md:block">
+   <!-- <div class="hidden py-6 md:block">
       <div
         class="w-[512px]"
         v-html="heroImg"
-      />
+      />-->
     </div>
   </main>
 </template>
