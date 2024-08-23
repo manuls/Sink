@@ -38,7 +38,7 @@ const { title, description } = useAppConfig()
       <div
         class="w-[512px]"
         v-html="heroImg"
-      />-->
-    </div>
+      />
+    </div>-->
   </main>
 </template>
